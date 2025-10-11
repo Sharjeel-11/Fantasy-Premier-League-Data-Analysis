@@ -15,4 +15,4 @@ Excel (Pivot Tables, Conditional Formatting)
 ## Insights
 - Players with high xG per 90 and stable minutes outperform their price tier.
 - Fixture difficulty and expected goals conceded (xGC) correlate with defensive returns.
-- Achieved top 1% global finish in FPL 2024/25 using a structured, analytical selection approach.
+- Achieved top 1% global finish in FPL 24/25 using a structured, analytical selection approach.
