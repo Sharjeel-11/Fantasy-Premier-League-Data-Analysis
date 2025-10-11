@@ -1,18 +1,17 @@
-# Fantasy Premier League Data Analysis
+# Fantasy Premier League 2024/25 Data Analysis
 
-A Python and Excel-based project analysing Fantasy Premier League (FPL) player performance.  
-It explores how expected metrics such as xG, xA, and xGC can be used to identify undervalued players and guide weekly team selection.
+This project explores player performance in the 2024/25 Fantasy Premier League season using Python (pandas, matplotlib) and Excel.  
+The analysis focuses on identifying undervalued players by comparing expected metrics (xG, xA) to actual points, as well as calculating efficiency ratios such as Points per Million and xGI per 90 minutes.
 
-## Key Objectives
-- Analyse relationships between expected and actual performance.
-- Identify trends and high-value players using data.
-- Visualise player efficiency across positions.
+## Technologies Used
+- Python: pandas, matplotlib, seaborn
+- Excel: Conditional formatting and trend analysis
 
-## Tools & Libraries
-Python (pandas, matplotlib, seaborn)  
-Excel (Pivot Tables, Conditional Formatting)  
+## Dataset
+A cleaned dataset of 10 popular FPL players was used, containing performance metrics such as goals, assists, xG, xA, minutes, and total points.
 
-## Insights
-- Players with high xG per 90 and stable minutes outperform their price tier.
-- Fixture difficulty and expected goals conceded (xGC) correlate with defensive returns.
-- Achieved top 1% global finish in FPL 24/25 using a structured, analytical selection approach.
+## Example Insights
+- Anthony Gordon and Ollie Watkins delivered the best value per million (18.3 and 18.5 PPM).
+- Strong correlation (r = 0.82) between xGI and total points validated the use of underlying stats for transfer decisions.
+- Darwin Núñez’s xG conversion rate outperformed expectations, suggesting he was undervalued early in the season.
+- Pedro Porro’s creative data (xA = 6.1) reinforced the trend of attacking full-backs being valuable FPL assets.
