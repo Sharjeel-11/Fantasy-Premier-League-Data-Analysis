@@ -12,6 +12,6 @@ A cleaned dataset of 10 popular FPL players was used, containing performance met
 
 ## Example Insights
 - Anthony Gordon and Ollie Watkins delivered the best value per million (18.3 and 18.5 PPM).
-- Strong correlation (r = 0.82) between xGI and total points validated the use of underlying stats for transfer decisions.
+- Strong correlation (r = 0.88) between xGI and total points validated the use of underlying stats for transfer decisions.
 - Darwin Núñez’s xG conversion rate outperformed expectations, suggesting he was undervalued early in the season.
 - Pedro Porro’s creative data (xA = 6.1) reinforced the trend of attacking full-backs being valuable FPL assets.
